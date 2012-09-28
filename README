@@ -1,0 +1,20 @@
+dict_ger_tr - private Turkish vocabulary lists
+==============================================
+
+This repo contains some vocabulary lists which I'm using to learn Turkish
+languange. The file format is csv text (UTF-8) and should be usable with
+various vocabulary trainers.
+
+Check out the latest version at https://github.com/rudimeier/dict_ger_tr
+
+
+
+content
+-------
+G*.csv - lessons from "Türkisch Lehrbuch Grammatik", Hüseyin Ağuiçenoğlu
+
+
+
+contact
+-------
+Ruediger Meier <sweet_f_a@gmx.de>
